@@ -1,0 +1,2 @@
+# SalespersonDashboard
+Using Google Visualization and Google Maps JavaScript APIs. When the page first loads, a table appears showing all of AW’s salespeople. Clicking one salesperson shows a pie chart with a breakdown of the number of stores per state/province served by that salesperson. Clicking on the pie produces a table of the salesperson’s specific stores in that state/province, and a map showing the individual cities. Hovering over a city’s marker shows the city name and specific store names.
